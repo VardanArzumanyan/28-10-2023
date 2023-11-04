@@ -86,9 +86,9 @@
 // });
 // console.log(a);
 
-// //1)Skzbic tpume sinxronnery ayisnqn log e anum 5
-// //2)Ashxatume setTimeouty gnalov macrotask
-// //3)Ashxatume Promise y,aysinqn p.theny,skzbum tpume logy promisi meji` 25(qani vor nersy a haytararvac e aranc keywordi aysinqn globalum e)
-// //aynuhetev tpume theni meji logy 'finaly result',undefined(qani vor resolve ov ban cheinq poxance):
-// //4)verjum ashxatume setTimeouty vory tpume 25 noric qani vor globalum 25 er:
-// //Kody tpume verjnakan 5,25,final result undefined,25
+//1)Skzbic tpume sinxronnery ayisnqn,79-82 toxery nuynpes sinxrona,dra hamar tpuma 5,heto poxum a n 25;
+//2)Tpume kodi verji sinxron logy vory 25 e;
+//2)Ashxatume setTimeouty gnalov macrotask
+//3)Ashxatume Promise y,tpume theni meji logy 'finaly result',undefined(qani vor resolve ov ban cheinq poxance):
+//4)verjum ashxatume setTimeouty vory tpume 25 noric qani vor globalum 25 er:
+//Kody tpume verjnakan 5,25,final result undefined,25
